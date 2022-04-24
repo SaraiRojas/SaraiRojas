@@ -2,7 +2,7 @@
 
 <img align="right" src="bongo-cat-codes.gif" width="300" frameBorder="0">
 
-## I'm Front-end developer-to-be
+### I'm Front-end developer-to-be
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Front-End projects
