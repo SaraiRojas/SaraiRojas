@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Sarai 👋
 
-<!--
-**SaraiRojas/SaraiRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="bongo-cat-codes.gif" width="300" frameBorder="0">
 
-Here are some ideas to get you started:
+## I'm Front-end developer-to-be
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Front-End projects
+- 🧑‍🎓 Student at @LaboratoriaLA bootcamp
+- 🧪 BSc Chemical Engineering / MEng. Environmental Engineering
+
+### Connect with me:
+
+<br />
+<a title="Gmail" href="sara.r.sandoval@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/sarai-rojas-sandoval/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br />
+<br />
+
+### Languages and Tools:
+
+<br />
+<a title="JavaScript" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a title="CSS" href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a title="HTML" href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a title="Python" href="https://www.python.org/"><img src="	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a title="Node" href="https://nodejs.org/es/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a title="Jest" href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
+<a title="Firebase" href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<a title="Eslint" href="https://eslint.org/"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
+<a title="Git" href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+"></a>
+<a title="Figma" href="https://www.figma.com/files/recent?fuid=1062505435884006409"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+"></a>
+<br />
+<br />
