@@ -4,7 +4,7 @@
 
 ### I'm Front-end developer-to-be
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning more about React
 - 👯 I’m looking to collaborate on Front-End projects
 - 🧑‍🎓 Student at @LaboratoriaLA bootcamp
 - 🧪 BSc Chemical Engineering / MEng. Environmental Engineering
@@ -18,8 +18,10 @@
 
 ### Languages and Tools:
 
+
 <br />
 <a title="JavaScript" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a title="React" href="https://es.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a title="CSS" href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a title="HTML" href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a title="Python" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
