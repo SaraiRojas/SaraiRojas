@@ -2,12 +2,13 @@
 
 <img align="right" src="bongo-cat-codes.gif" width="300" frameBorder="0">
 
-### I'm Front-end developer-to-be
+### I'm a Front-end developer
 
 - 🌱 I’m currently learning more about React
 - 👯 I’m looking to collaborate on Front-End projects
 - 🧑‍🎓 Student at [LaboratoriaLA](https://www.laboratoria.la/) bootcamp
-- 🧪 BSc Chemical Engineering / MEng. Environmental Engineering
+- 🧪 BSc Chemical Engineering / MEng Environmental Engineering
+- 🫀 Aside from technology, I am really passionate about environmental and social justice topics 
 
 ### Connect with me:
 
