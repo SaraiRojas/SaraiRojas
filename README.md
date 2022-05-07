@@ -32,3 +32,5 @@
 <a title="Figma" href="https://www.figma.com/files/recent?fuid=1062505435884006409"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <br />
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraiRojas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
