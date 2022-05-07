@@ -5,6 +5,7 @@
 ### I'm a Front-end developer
 
 - 🌱 I’m currently learning more about React
+- 🤓 Whishlist: TypeScript, Next.js and Node.js
 - 👯 I’m looking to collaborate on Front-End projects
 - 🧑‍🎓 Student at [LaboratoriaLA](https://www.laboratoria.la/) bootcamp
 - 🧪 BSc Chemical Engineering / MEng Environmental Engineering
