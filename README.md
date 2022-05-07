@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning more about React
 - 👯 I’m looking to collaborate on Front-End projects
-- 🧑‍🎓 Student at @LaboratoriaLA bootcamp
+- 🧑‍🎓 Student at [@LaboratoriaLA](https://www.laboratoria.la/) bootcamp
 - 🧪 BSc Chemical Engineering / MEng. Environmental Engineering
 
 ### Connect with me:
