@@ -1,4 +1,4 @@
-# Hi there, I'm Sarai 👋
+# Hi there, I'm Sarai ✨🌈💟
 
 <img align="right" src="bongo-cat-codes.gif" width="300" frameBorder="0">
 
