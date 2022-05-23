@@ -1,6 +1,6 @@
 # Hi there, I'm Sarai ✨🌈💟
 
-<img align="right" src="bongo-cat-codes.gif" width="300" frameBorder="0">
+<img align="right" src="bongo-cat-codes.gif" width="250" frameBorder="0">
 
 ### I'm a Front-end developer
 
