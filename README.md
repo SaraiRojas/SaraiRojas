@@ -4,10 +4,7 @@
 
 ### I'm a Front-end developer
 
-- 🌱 I’m currently learning more about React
-- 🤓 Wishlist: TypeScript, Next.js and Node.js
 - 👯 I’m looking to collaborate on Front-End projects
-- 🧑‍🎓 Studied at [LaboratoriaLA](https://www.laboratoria.la/) bootcamp
 - 🧪 BSc Chemical Engineering / MEng Environmental Engineering
 - 🫀 Aside from technology, I am really passionate about environmental and social justice topics 
 
